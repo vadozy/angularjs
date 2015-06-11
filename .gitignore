@@ -1,0 +1,6 @@
+*Db.properties
+*Db.script
+.settings
+/*.log
+/*.log.*
+.DS_Store
